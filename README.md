@@ -1,7 +1,7 @@
 # Final_iOS_Bootcamp_Project-Mock
 
 # Final_iOS_Bootcamp_Project-Donations-Rasha
-Humanitarian app that aids financially vulnerable families with donors
+**_Humanitarian app_** that aids financially vulnerable families with donors
 
 ## Motivation
 "In our society unfortunately there are people with primary necessities not covered. These people need help from the ones who have covered this basic needs.
@@ -28,9 +28,21 @@ The goods in the app are divided in several sections such as: Furniture, clothes
 ## User stories - Donator
    - Donators adds donations with the name of the good danated and if necessary sizes,  and image. 
 
+##Photo
+
+https://user-images.githubusercontent.com/91602095/151117015-76133877-fad8-4e10-aff7-951cbb065c8e.mp4
+
+--- 
+
    - The image of the donation can be taken from a photo from tha app or from the gallery.
 
    - When adding a donation, the app will fill the information about the location of the donator from its profile.
+
+##Photo
+
+https://user-images.githubusercontent.com/91602095/151117015-76133877-fad8-4e10-aff7-951cbb065c8e.mp4
+
+---
 
    - The donator can receive private chat messages and answer them.
 
@@ -43,8 +55,6 @@ with basic information like the name of the good, the size (if there is any size
    - When one good is selected the user also can get in contact with the donator throgh a private chat.
 
 
-##Photo
 
-https://user-images.githubusercontent.com/91602095/151117015-76133877-fad8-4e10-aff7-951cbb065c8e.mp4
 
 
